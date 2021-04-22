@@ -1,2 +1,2 @@
 # fizzbuzz
-FizzBuzz exercise in all the languages I know
+FizzBuzz exercise in a few languages
