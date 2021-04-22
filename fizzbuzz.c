@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /*
 FizzBuzz in C
 Written by calebrwalk5 (aka anusO1)
