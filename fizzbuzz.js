@@ -4,21 +4,22 @@ Written by calebrwalk5 (aka anusO1)
 */
 
 function main() {
-  for (var i=1; i<=100; i++) {
-  var output = "";
+  var result = "FizzBuzz Game";
+  console.log(result)
+  for (var i = 1; i <= 100; i++) {
       if (i % 15 == 0) {
-        output = "FizzBuzz";
+        result = "FizzBuzz";
       }
       else if (i % 5 == 0) {
-        output = "Buzz";
+        result = "Buzz";
       }
       else if (i % 3 == 0) {
-        output = "Fizz";
+        result = "Fizz";
       }
       else {
-        output = i;
+        result = i;
       }
-  console.log(output);
+  console.log(result);
   }
 }
 
